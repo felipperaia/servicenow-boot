@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="periodo" table="x_1807701_unit_cadeiras" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>periodo</element>
+            <name>x_1807701_unit_cadeiras</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-28 15:23:24</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>periodo</sys_name>
+            <sys_package display_value="UNIT" source="x_1807701_unit">847e568dc3c3a21018ae1dd1b40131e1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UNIT">847e568dc3c3a21018ae1dd1b40131e1</sys_scope>
+            <sys_update_name>sys_choice_x_1807701_unit_cadeiras_periodo</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-28 15:23:24</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>periodo</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Primeiro</label>
+            <language>en</language>
+            <name>x_1807701_unit_cadeiras</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-28 15:23:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-28 15:23:24</sys_updated_on>
+            <value>primeiro</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>periodo</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Segundo</label>
+            <language>en</language>
+            <name>x_1807701_unit_cadeiras</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-28 15:23:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-28 15:23:35</sys_updated_on>
+            <value>segundo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>periodo</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Terceiro</label>
+            <language>en</language>
+            <name>x_1807701_unit_cadeiras</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-28 15:23:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-28 15:23:46</sys_updated_on>
+            <value>terceiro</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>periodo</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Quarto</label>
+            <language>en</language>
+            <name>x_1807701_unit_cadeiras</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-28 15:23:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-28 15:23:56</sys_updated_on>
+            <value>quarto</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

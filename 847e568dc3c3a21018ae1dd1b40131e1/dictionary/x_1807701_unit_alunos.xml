@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8b9f9641c307a21018ae1dd1b40131aa" extends="sys_user" label="Alunos" max_length="40" name="x_1807701_unit_alunos" type="collection">
+        <element label="Ativo" max_length="40" name="ativo" type="boolean"/>
+        <element label="Data de Matrícula" max_length="40" name="data_de_matricula" type="glide_date"/>
+        <element label="Data de formação " max_length="40" name="data_de_formacao" type="glide_date"/>
+        <element label="Data de Nascimento " max_length="40" name="data_de_nascimento" type="glide_date"/>
+        <element choice="1" label="Turno " max_length="40" name="turno" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Tarde" sequence="2" value="tarde"/>
+                <element inactive_on_update="false" label="Manhã" sequence="1" value="manha"/>
+                <element inactive_on_update="false" label="Noite" sequence="3" value="noite"/>
+            </choice>
+        </element>
+    </element>
+</database>
