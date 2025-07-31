@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="UNIT">7ab56a8ac307e61018ae1dd1b4013127</application>
+        <filter/>
+        <name>Gerentes</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1807701_unit.gerente_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-31 17:11:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e906e2cac307e61018ae1dd1b40131bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Gerentes</sys_name>
+        <sys_package display_value="UNIT" source="x_1807701_unit">847e568dc3c3a21018ae1dd1b40131e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">847e568dc3c3a21018ae1dd1b40131e1</sys_scope>
+        <sys_update_name>sys_ui_module_e906e2cac307e61018ae1dd1b40131bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-31 17:11:34</sys_updated_on>
+        <table>x_1807701_unit_gerente</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">847e568dc3c3a21018ae1dd1b40131e1</application>
+        <file_path/>
+        <instance_id>2ac710cfebcdeed0cbbffceacad0cd7b</instance_id>
+        <instance_name>dev336968</instance_name>
+        <name>sys_ui_module_e906e2cac307e61018ae1dd1b40131bb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="UNIT">7ab56a8ac307e61018ae1dd1b4013127</application><filter/><name>Gerentes</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_1807701_unit.gerente_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-31 17:11:34</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e906e2cac307e61018ae1dd1b40131bb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Gerentes</sys_name><sys_package display_value="UNIT" source="x_1807701_unit">847e568dc3c3a21018ae1dd1b40131e1</sys_package><sys_policy/><sys_scope display_value="UNIT">847e568dc3c3a21018ae1dd1b40131e1</sys_scope><sys_update_name>sys_ui_module_e906e2cac307e61018ae1dd1b40131bb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-31 17:11:34</sys_updated_on><table>x_1807701_unit_gerente</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>1711959972</payload_hash>
+        <record_name>Gerentes</record_name>
+        <reverted_from/>
+        <source>904f5201c307a21018ae1dd1b401316f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-31 17:11:34</sys_created_on>
+        <sys_id>e906e2cac307e61018ae1dd1b40131bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1986177c0380000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-31 17:11:34</sys_updated_on>
+        <type>Module</type>
+        <update_guid>ed06e2caf107e610f2a8a18bcb0036bc</update_guid>
+        <update_guid_history>ed06e2caf107e610f2a8a18bcb0036bc:1711959972</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-31 17:14:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>2edd92d8438a41558f60b51cd753b119</sys_id>
+        <sys_metadata>e906e2cac307e61018ae1dd1b40131bb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Gerentes</sys_name>
+        <sys_package display_value="UNIT" source="x_1807701_unit">847e568dc3c3a21018ae1dd1b40131e1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">847e568dc3c3a21018ae1dd1b40131e1</sys_scope>
+        <sys_scope_delete display_value="">2cb63f64789f46bf8d44d960f4294179</sys_scope_delete>
+        <sys_update_name>sys_ui_module_e906e2cac307e61018ae1dd1b40131bb</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_e906e2cac307e61018ae1dd1b40131bb">e906e2cac307e61018ae1dd1b40131bd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-31 17:14:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

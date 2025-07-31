@@ -3,10 +3,16 @@
         <element label="Nome da cadeira" max_length="40" name="nome_da_cadeira" type="string"/>
         <element choice="1" label="Periodo" max_length="40" name="periodo" type="choice">
             <choice>
+                <element inactive_on_update="false" label="Oitavo" sequence="8" value="oitavo"/>
+                <element inactive_on_update="false" label="Nono" sequence="9" value="nono"/>
+                <element inactive_on_update="false" label="Décimo" sequence="10" value="decimo"/>
                 <element inactive_on_update="false" label="Quarto" sequence="4" value="quarto"/>
                 <element inactive_on_update="false" label="Primeiro" sequence="1" value="primeiro"/>
                 <element inactive_on_update="false" label="Segundo" sequence="2" value="segundo"/>
+                <element inactive_on_update="false" label="Sétimo" sequence="7" value="setimo"/>
                 <element inactive_on_update="false" label="Terceiro" sequence="3" value="terceiro"/>
+                <element inactive_on_update="false" label="Quinto" sequence="5" value="quinto"/>
+                <element inactive_on_update="false" label="Sexto" sequence="6" value="sexto"/>
             </choice>
         </element>
         <element label="Professor" max_length="32" name="professor" reference="x_1807701_unit_professores" type="reference"/>

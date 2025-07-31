@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_rplcd_n_ascii_520640136" label="Data de Matrícula" language="en" table="x_1807701_unit_tabela_alunos">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_rplcd_n_ascii_520640136</element>
+            <help/>
+            <hint/>
+            <label>Data de Matrícula</label>
+            <language>en</language>
+            <name>x_1807701_unit_tabela_alunos</name>
+            <plural>Data de Matrículas</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-29 16:50:44</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Data de Matrícula</sys_name>
+            <sys_package display_value="UNIT" source="x_1807701_unit">847e568dc3c3a21018ae1dd1b40131e1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UNIT">847e568dc3c3a21018ae1dd1b40131e1</sys_scope>
+            <sys_update_name>sys_documentation_x_1807701_unit_tabela_alunos_u_rplcd_n_ascii_520640136_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-29 16:50:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

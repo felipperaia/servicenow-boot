@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description>Default access control on x_1807701_unit_aleatorioa</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1807701_unit_aleatorioa</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-31 17:10:18</sys_created_on>
+        <sys_id>cfb56a8ac307e61018ae1dd1b401315d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1807701_unit_aleatorioa</sys_name>
+        <sys_package display_value="UNIT" source="x_1807701_unit">847e568dc3c3a21018ae1dd1b40131e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">847e568dc3c3a21018ae1dd1b40131e1</sys_scope>
+        <sys_update_name>sys_security_acl_cfb56a8ac307e61018ae1dd1b401315d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-31 17:10:18</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">847e568dc3c3a21018ae1dd1b40131e1</application>
+        <file_path/>
+        <instance_id>2ac710cfebcdeed0cbbffceacad0cd7b</instance_id>
+        <instance_name>dev336968</instance_name>
+        <name>sys_security_acl_cfb56a8ac307e61018ae1dd1b401315d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Default access control on x_1807701_unit_aleatorioa</description><local_or_existing>Local</local_or_existing><name>x_1807701_unit_aleatorioa</name><operation display_value="delete">delete</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-31 17:10:18</sys_created_on><sys_id>cfb56a8ac307e61018ae1dd1b401315d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1807701_unit_aleatorioa</sys_name><sys_package display_value="UNIT" source="x_1807701_unit">847e568dc3c3a21018ae1dd1b40131e1</sys_package><sys_policy/><sys_scope display_value="UNIT">847e568dc3c3a21018ae1dd1b40131e1</sys_scope><sys_update_name>sys_security_acl_cfb56a8ac307e61018ae1dd1b401315d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-31 17:10:18</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>745738928</payload_hash>
+        <record_name>x_1807701_unit_aleatorioa</record_name>
+        <reverted_from/>
+        <source>904f5201c307a21018ae1dd1b401316f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-31 17:10:18</sys_created_on>
+        <sys_id>cbb56a8ac307e61018ae1dd1b4013160</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198617697380000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-31 17:10:18</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>cfb56a8a1d07e610e96fde3dabbbd15f</update_guid>
+        <update_guid_history>cfb56a8a1d07e610e96fde3dabbbd15f:745738928</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-31 17:10:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>0b01acbf0331475f9080dc812c26cb11</sys_id>
+        <sys_metadata>cfb56a8ac307e61018ae1dd1b401315d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1807701_unit_aleatorioa</sys_name>
+        <sys_package display_value="UNIT" source="x_1807701_unit">847e568dc3c3a21018ae1dd1b40131e1</sys_package>
+        <sys_parent display_value="">4bb56a8ac307e61018ae1dd1b4013164</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">847e568dc3c3a21018ae1dd1b40131e1</sys_scope>
+        <sys_scope_delete display_value="">2cb63f64789f46bf8d44d960f4294179</sys_scope_delete>
+        <sys_update_name>sys_security_acl_cfb56a8ac307e61018ae1dd1b401315d</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_cfb56a8ac307e61018ae1dd1b401315d">cbb56a8ac307e61018ae1dd1b4013160</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-31 17:10:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

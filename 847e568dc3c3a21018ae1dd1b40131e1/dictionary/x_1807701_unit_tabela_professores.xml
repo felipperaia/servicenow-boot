@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d3d3d0e5c343261018ae1dd1b4013143" extends="sys_import_set_row" label="tabela_professores" max_length="40" name="x_1807701_unit_tabela_professores" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Número Matrícula" label="Número Matrícula" max_length="40" name="u_rplcd_n_ascii_765281293" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Ativo" label="Ativo" max_length="40" name="u_ativo" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Data Nascimento" label="Data Nascimento" max_length="40" name="u_data_nascimento" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Data Demissao" label="Data Demissao" max_length="40" name="u_data_demissao" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Data Contratacao" label="Data Contratacao" max_length="40" name="u_data_contratacao" type="glide_date"/>
+    </element>
+</database>
