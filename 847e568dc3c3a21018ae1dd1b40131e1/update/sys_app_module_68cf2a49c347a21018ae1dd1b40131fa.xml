@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Cadeiras">e0cfea09c347a21018ae1dd1b40131b4</application>
+        <application display_value="UNIT">e0cfea09c347a21018ae1dd1b40131b4</application>
         <assessment/>
         <device_type/>
         <filter/>
