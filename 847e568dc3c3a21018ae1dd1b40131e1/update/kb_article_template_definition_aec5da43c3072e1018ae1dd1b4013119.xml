@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_article_template_definition">
+    <kb_article_template_definition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <article_template display_value="UNIT Template Secretaria">0d959643c3072e1018ae1dd1b401310a</article_template>
+        <collapsible>expanded</collapsible>
+        <column_label>Responsáveis pelo processo</column_label>
+        <column_type>string</column_type>
+        <field_style/>
+        <heading_style/>
+        <mandatory>false</mandatory>
+        <order>100</order>
+        <preview_text><![CDATA[<p>Professor X</p>]]></preview_text>
+        <sys_class_name>kb_article_template_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-03 18:36:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aec5da43c3072e1018ae1dd1b4013119</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Responsáveis pelo processo</sys_name>
+        <sys_package display_value="UNIT" source="x_1807701_unit">847e568dc3c3a21018ae1dd1b40131e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">847e568dc3c3a21018ae1dd1b40131e1</sys_scope>
+        <sys_update_name>kb_article_template_definition_aec5da43c3072e1018ae1dd1b4013119</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-03 18:40:33</sys_updated_on>
+        <table_column>x_1807701_unit_u_kb_demonstra_o</table_column>
+    </kb_article_template_definition>
+</record_update>

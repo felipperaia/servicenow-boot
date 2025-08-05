@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="72af6649c347a21018ae1dd1b4013133" label="Cadeiras" max_length="40" name="x_1807701_unit_cadeiras" type="collection">
-        <element label="Nome da cadeira" max_length="40" name="nome_da_cadeira" type="string"/>
+        <element display="true" label="Nome da cadeira" max_length="40" name="nome_da_cadeira" type="string"/>
         <element choice="1" label="Periodo" max_length="40" name="periodo" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Oitavo" sequence="8" value="oitavo"/>

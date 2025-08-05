@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_uc_can_contribute_mtom">
+    <kb_uc_can_contribute_mtom action="INSERT_OR_UPDATE">
+        <kb_knowledge_base display_value="Conhecimentos Gerais - UNIT">34335e4fc3c32e1018ae1dd1b401316c</kb_knowledge_base>
+        <sys_class_name>kb_uc_can_contribute_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-03 18:52:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>82d9de87c3072e1018ae1dd1b401313c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Conhecimentos Gerais - UNIT.Secretaria</sys_name>
+        <sys_package display_value="UNIT" source="x_1807701_unit">847e568dc3c3a21018ae1dd1b40131e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">847e568dc3c3a21018ae1dd1b40131e1</sys_scope>
+        <sys_update_name>kb_uc_can_contribute_mtom_82d9de87c3072e1018ae1dd1b401313c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-03 18:52:17</sys_updated_on>
+        <user_criteria display_value="Secretaria">fdc99687c3072e1018ae1dd1b401318a</user_criteria>
+    </kb_uc_can_contribute_mtom>
+</record_update>

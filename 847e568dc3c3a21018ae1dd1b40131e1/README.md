@@ -26,3 +26,5 @@ If you find yourself unable to import your repository due to the presence of fil
    Currently listed dependencies:
    * Service Management Basics
    * System Import Sets
+   * Task table schema
+   * Knowledge Management Core

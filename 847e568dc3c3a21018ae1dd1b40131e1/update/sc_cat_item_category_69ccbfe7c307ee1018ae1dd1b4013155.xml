@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Renovação">00ff57a3c383ee1018ae1dd1b4013151</sc_cat_item>
+        <sc_category display_value="Serviços Acadêmicos">feacb3e7c307ee1018ae1dd1b40131c9</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-05 15:21:28</sys_created_on>
+        <sys_id>69ccbfe7c307ee1018ae1dd1b4013155</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Serviços Acadêmicos.Renovação</sys_name>
+        <sys_package display_value="UNIT" source="x_1807701_unit">847e568dc3c3a21018ae1dd1b40131e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">847e568dc3c3a21018ae1dd1b40131e1</sys_scope>
+        <sys_update_name>sc_cat_item_category_69ccbfe7c307ee1018ae1dd1b4013155</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-05 15:21:28</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
